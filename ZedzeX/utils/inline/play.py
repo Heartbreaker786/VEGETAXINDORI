@@ -241,7 +241,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="🌿σωиєя🌿", url="https://t.me/VIP_Boy_113"
+                text="🌿σωиєя🌿", url="https://t.me/III_JAI_SHREE_RAM_III"
             ),
         ],
          [
@@ -492,7 +492,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
            InlineKeyboardButton(
-                text="🌿σωиєя🌿", url="https://t.me/VIP_Boy_113"
+                text="🌿σωиєя🌿", url="https://t.me/III_JAI_SHREE_RAM_III"
             ),
         ],
          [
@@ -543,7 +543,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🌿σωиєя🌿", url="https://t.me/VIP_Boy_113"
+                text="🌿σωиєя🌿", url="https://t.me/III_JAI_SHREE_RAM_III"
             ),
         ],
          [
@@ -591,7 +591,7 @@ def telegram_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🌿σωиєя🌿", url="https://t.me/VIP_Boy_113"
+                text="🌿σωиєя🌿", url="https://t.me/III_JAI_SHREE_RAM_III"
             ),
         ],
          [
@@ -637,7 +637,7 @@ def track_markup(_,chat_id, videoid, user_id, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="🌿σωиєя🌿", url="https://t.me/VIP_Boy_113"
+                text="🌿σωиєя🌿", url="https://t.me/III_JAI_SHREE_RAM_III"
             ),
         ],
         [
@@ -678,7 +678,7 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="🌿σωиєя🌿", url="https://t.me/VIP_Boy_113"
+                text="🌿σωиєя🌿", url="https://t.me/III_JAI_SHREE_RAM_III"
             ),
         ],
         [
@@ -825,7 +825,7 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🌿σωиєя🌿", url="https://t.me/VIP_Boy_113"
+                text="🌿σωиєя🌿", url="https://t.me/III_JAI_SHREE_RAM_III"
             ),
         ],
          [
