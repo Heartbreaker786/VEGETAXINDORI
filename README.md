@@ -14,12 +14,12 @@
 
 
 <h2 align="center">
-    ──「 Aʟᴏɴᴇ ✘ 」──
+    ──「 Rohit ✘ 」──
     
 
 ★ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝚃𝙴𝙰𝙼+𝙰𝙻𝙾𝙽𝙴+🎭">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝚃𝙴𝙰𝙼+Rohit+🎭">
 <p align="center">
   <img src="https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg">
 </p>
@@ -27,7 +27,7 @@
 **𝘽𝙊𝙏 ➣ [Aʟᴏɴᴇ ✘](https://t.me/AloneXMusicBot)**
 
 <p align="center">
-<a href="https://github.com/AloneXBot/AloneXMusic/stargazers"><img src="https://img.shields.io/github/stars/AloneXBot/AloneXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/RohitXBot/RohitXMusic/stargazers"><img src="https://img.shields.io/github/stars/AloneXBot/AloneXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/AloneXBot/AloneXMusic/network/members"> <img src="https://img.shields.io/github/forks/AloneXBot/AloneXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/AloneXBot/AloneXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
