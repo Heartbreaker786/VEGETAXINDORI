@@ -44,16 +44,16 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="✯ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 ✯", url=f"https://t.me/AlonesHeaven",
+                text="✯ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 ✯", url=f"https://t.me/vip_world_op",
             ),
             InlineKeyboardButton(
-                text="✯ 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 ✯", url=f"https://t.me/AloneXBots",
+                text="✯ 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 ✯", url=f"https://t.me/RED_DRAGON_CLAN",
             )
         ],
         [
             InlineKeyboardButton(
-                text="🌱ƨσʋяcɛ🌱",
-                url=f"https://t.me/ALONE_WAS_BOT",
+                text="✯ 𝗦𝗼𝘂𝗿𝗲𝗰 ✯",
+                url=f"https://github.com/RohitXBot/RohitXMusic",
             )
         ],
      ]
