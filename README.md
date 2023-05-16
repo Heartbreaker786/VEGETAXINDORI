@@ -21,17 +21,17 @@
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝚃𝙴𝙰𝙼+Rohit+🎭">
 <p align="center">
-  <img src="https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg">
+  <img src="https://te.legra.ph/file/6f540a835119a76ea7f7a.jpg">
 </p>
 
 **𝘽𝙊𝙏 ➣ [Aʟᴏɴᴇ ✘](https://t.me/AloneXMusicBot)**
 
 <p align="center">
 <a href="https://github.com/RohitXBot/RohitXMusic/stargazers"><img src="https://img.shields.io/github/stars/AloneXBot/AloneXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/AloneXBot/AloneXMusic/network/members"> <img src="https://img.shields.io/github/forks/AloneXBot/AloneXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AloneXBot/AloneXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/RohitXBot/RohitXMusic/network/members"> <img src="https://img.shields.io/github/forks/AloneXBot/AloneXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/RohitXBot/RohitXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/AloneXBot/AloneXMusic/commits/AloneXBot"> <img src="https://img.shields.io/github/last-commit/AloneXBot/AloneXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/RohitXBot/RohitXMusic/commits/AloneXBot"> <img src="https://img.shields.io/github/last-commit/AloneXBot/AloneXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 
@@ -46,19 +46,19 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AloneXBot/AloneXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/RohitXBot/RohitXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h2 align="center">
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
 <p align="center">
-<a href="https://telegram.me/ALONE_WAS_BOT"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎『𝐀𝐋𝐎𝐍𝐄』亗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/VIP_Boy_113"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎『ROHIT』亗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/AloneXBot/AloneXMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/RohitXBot/RohitXMusic/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
