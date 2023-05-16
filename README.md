@@ -24,7 +24,7 @@
   <img src="https://te.legra.ph/file/6f540a835119a76ea7f7a.jpg">
 </p>
 
-**𝘽𝙊𝙏 ➣ [Aʟᴏɴᴇ ✘](https://t.me/AloneXMusicBot)**
+**𝘽𝙊𝙏 ➣ [𝐑𝐨𝐡𝐢𝐭 ✘ 𝐌𝐮𝐬𝐢𝐜](https://t.me/RohitXMusicBot)**
 
 <p align="center">
 <a href="https://github.com/RohitXBot/RohitXMusic/stargazers"><img src="https://img.shields.io/github/stars/AloneXBot/AloneXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
