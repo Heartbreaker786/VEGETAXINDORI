@@ -9,17 +9,17 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
+                text="✯ 𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 ✯",
                 url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             )
         ],
         [
             InlineKeyboardButton(
-                text="🔎 ʜᴏᴡ ᴛᴏ ᴜsᴇ ? ᴄᴏᴍᴍᴀɴᴅs ᴍᴇɴᴜ",
+                text="✯ 𝗛𝗲𝗹𝗽 ✯",
                 callback_data="settings_back_helper",
             ),
             InlineKeyboardButton(
-                text="🔥 sᴇᴛᴛɪɴɢs 🔥", callback_data="settings_helper"
+                text="✯ 𝗦𝗲𝘁𝘁𝗶𝗻𝗴𝘀 ✯", callback_data="settings_helper"
             ),
         ],
      ]
@@ -30,31 +30,30 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
+                text="✯ 𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 ✯",
                 url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             )
         ],
         [
             InlineKeyboardButton(
-                text="🍁 ᴜᴘᴅᴀᴛᴇs 🍁", url=f"https://t.me/AloneXBots",
+                text="✯ 𝗢𝘄𝗻𝗲𝗿 ✯", url=f"https://t.me/VIP_Boy_113"
             ),
             InlineKeyboardButton(
-                text="💫 sᴜᴘᴘᴏʀᴛ 💫", url=f"https://t.me/AlonesHeaven",
+                text="✯ 𝗛𝗲𝗹𝗽 ✯", callback_data="settings_back_helper"
             )
         ],
         [
             InlineKeyboardButton(
-                text="🔎 ʜᴏᴡ ᴛᴏ ᴜsᴇ ? ᴄᴏᴍᴍᴀɴᴅs ᴍᴇɴᴜ",
-                callback_data="settings_back_helper",
+                text="✯ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 ✯", url=f"https://t.me/AlonesHeaven",
+            ),
+            InlineKeyboardButton(
+                text="✯ 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 ✯", url=f"https://t.me/AloneXBots",
             )
         ],
         [
             InlineKeyboardButton(
-                text="✨ ᴏᴡɴᴇʀ ✨",
-                url=f"https://t.me/ALONE_WAS_BOT"
-            ),
-            InlineKeyboardButton(
-                text="❄️ sᴏᴜʀᴄᴇ ❄️", url=f"https://te.legra.ph/file/5fa7b4d86dcd5720ef30c.mp4",
+                text="🌱ƨσʋяcɛ🌱",
+                url=f"https://t.me/ALONE_WAS_BOT",
             )
         ],
      ]
