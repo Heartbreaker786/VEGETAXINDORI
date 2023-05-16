@@ -14,17 +14,17 @@
 
 
 <h2 align="center">
-    ──「 Rohit ✘ 」──
+    ──「 𝗜𝗡𝗗𝗢𝗥𝗜 ✘ 𝗩𝗘𝗚𝗘𝗧𝗔  」──
     
 
 ★ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝚃𝙴𝙰𝙼+Rohit+🎭">
 <p align="center">
-  <img src="https://te.legra.ph/file/6f540a835119a76ea7f7a.jpg">
+  <img src="https://telegra.ph/file/83f69d94bd7d988880444.jpg">
 </p>
 
-**𝘽𝙊𝙏 ➣ [𝐑𝐨𝐡𝐢𝐭 ✘ 𝐌𝐮𝐬𝐢𝐜](https://t.me/RohitXMusicBot)**
+**𝘽𝙊𝙏 ➣ [𝗜𝗡𝗗𝗢𝗥𝗜 𝗫 𝗩𝗘𝗚𝗘𝗧𝗔](http://t.me/KIDZWORLD_bot)**
 
 <p align="center">
 <a href="https://github.com/RohitXBot/RohitXMusic/stargazers"><img src="https://img.shields.io/github/stars/AloneXBot/AloneXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
